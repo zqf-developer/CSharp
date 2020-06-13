@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace CSharpFundationTutorialApp
+namespace CSharpBasicTutorialApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var name = "";
+            Console.WriteLine( Math.Acosh(60) );
             Console.ReadLine();
         }
     }
