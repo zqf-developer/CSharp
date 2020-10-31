@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfFundationTutorialApp", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserApi", "UserApi\UserApi.csproj", "{58194341-A68F-4E3F-B9D4-F1CFC37BAC9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesMovie", "RazorPagesMovie\RazorPagesMovie.csproj", "{ACCF0A95-CF1E-4394-A5A4-182394164142}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesMovie", "RazorPagesMovie\RazorPagesMovie.csproj", "{ACCF0A95-CF1E-4394-A5A4-182394164142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calvin.AspNetCoreDemo", "calvin.AspNetCoreDemo\calvin.AspNetCoreDemo.csproj", "{F87EF611-B5A9-482F-8346-649E5159E432}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{ACCF0A95-CF1E-4394-A5A4-182394164142}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACCF0A95-CF1E-4394-A5A4-182394164142}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACCF0A95-CF1E-4394-A5A4-182394164142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87EF611-B5A9-482F-8346-649E5159E432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87EF611-B5A9-482F-8346-649E5159E432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87EF611-B5A9-482F-8346-649E5159E432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87EF611-B5A9-482F-8346-649E5159E432}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
